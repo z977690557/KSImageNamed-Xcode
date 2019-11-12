@@ -1,5 +1,5 @@
 # KSImageNamed-Xcode
----
+#自动获取图片插件
 
 ## What is this?
 
